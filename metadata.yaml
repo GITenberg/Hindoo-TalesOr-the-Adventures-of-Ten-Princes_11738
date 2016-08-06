@@ -1,0 +1,39 @@
+_repo: Hindoo-TalesOr-the-Adventures-of-Ten-Princes_11738
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Jacob, Philip Whittington
+    alias: Jacob, P. W.
+    birthdate: 1805
+    deathdate: 1889
+    gutenberg_agent_id: '4085'
+    url: http://www.gutenberg.org/2009/agents/4085
+creator:
+  author:
+    agent_name: Dandin, 7th cent.
+    aliases:
+    - Dandyacharya
+    - Dbyug-pa-can, Slob-dpon
+    - Dandi
+    - Tantiyaciriyar
+    - Dandyacarya
+    gutenberg_agent_id: '40237'
+    url: http://www.gutenberg.org/2009/agents/40237
+description: ''
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11738'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sanskrit literature -- Translations into English'
+- !lcsh 'Tales -- India'
+- !lcc 'PK'
+- GITenberg
+title: 'Hindoo Tales
+
+  Or, the Adventures of Ten Princes'
+url: http://www.gutenberg.org/ebooks/11738
